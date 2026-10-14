@@ -10,13 +10,13 @@ https://public.tableau.com/app/profile/immandi.maheswari/viz/Zomatotableauprojec
 - Zomato Bangalore dataset (CSV)
 
 ## Sheet 1: Top 10 Areas by Number of Restaurants
-![Sheet 1](Sheet1.png)
+![Sheet 1](zomato%20tableau%20sheet%201.png)
 
 - Electronic City has the most restaurants, followed by Marathahalli and HSR.
 - The top 10 areas together hold 3,796 restaurants.
 
 ## Sheet 2: Top 10 Areas by Average Cost
-![Sheet 2](Sheet2.png)
+![Sheet 2](zomato%20tableau%20sheet%202.png)
 
 - Indiranagar has the highest average cost, followed by JP Nagar and Whitefield.
 - BTM and Electronic City have the lowest average cost among the top 10.
